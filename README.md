@@ -17,11 +17,16 @@ pip install -r requirements.txt
 ```
 
 Usage
+```bash
 python scanner.py
+```
 Example
 
 Input:
+
+```
 https://example.com
+```
 
 Output:
 
